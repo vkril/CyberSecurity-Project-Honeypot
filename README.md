@@ -1,8 +1,6 @@
 # Project 9 - Honeypot
 
-Time spent: **14** hours spent in total
-
-> Objective: Setup a honeypot and provide a working demonstration of its features.
+Time spent: 14 hours spent in total
 
   <b>Which Honeypot(s) you deployed</b>
   
